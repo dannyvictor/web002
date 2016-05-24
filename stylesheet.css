@@ -1,8 +1,26 @@
+body{
+	margin: 0 auto;
+	text-aling: center;
+	width:100%;
+	font-size:12px;
+}
+.conteudo{
+	display:block;
+	margin-top:25%;
+}
+.conteudo-btn{
+	display:block;
+	width:100%;
 h1{
 	text-align: center;
 	font-family: serif;
 }
-div {
+h3{
+	text-align: center;
+	font-size: 30px;
+	font-family: serif;
+}
+.btn-base{
 	border-radius: 5px;
 	border: 2px solid green;
 	background-color: yellow;
