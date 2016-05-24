@@ -5,10 +5,10 @@ p{
 }
 div {
 	border-radius: 5px;
-	border: 2px solid #6495ED;
-	background-color: #BCD2EE;
+	border: 2px solid green;
+	background-color: yellow;
 	height: 50px;
-	width: 120px;
+	width: 50px;
 	margin: auto;
 	text-align: center;
 }
