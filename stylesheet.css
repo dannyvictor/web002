@@ -9,7 +9,10 @@ div {
 	background-color: yellow;
 	height: 50px;
 	width: 120px;
-	margin: center;
+	margin: auto;
 	text-align: center;
+}
+div p{
+	text-decoration: none;
 }
 
