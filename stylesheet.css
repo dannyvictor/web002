@@ -8,9 +8,9 @@ body{
 	display:block;
 	margin-top:25%;
 }
-.conteudo-btn{
+/*.conteudo-btn{
 	display:block;
-	width:100%;
+	width:100%;*/
 h1{
 	text-align: center;
 	font-family: serif;
@@ -19,7 +19,7 @@ h1{
 h1:first-child{
 	margin-top:350px;
 }
-.btn-base{
+div{
 	text-align: center;
 	heigth: 200px;
 	width:120px;
