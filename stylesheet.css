@@ -23,11 +23,11 @@ h1:first-child{
 	text-align: center;
 	heigth: 200px;
 	width:120px;
-	border-radius: 1px;
-	border: 5px solid yellow;
+	border-radius: 5px;
+	border: 2px solid yellow;
         margin-left:45%
         font-family: serif;
-        background:green;
+        background-color:green;
         display:inline-block;
 }
 a{
