@@ -14,14 +14,14 @@ body{
 }
 h1{
 	text-align: center;
-	font-family: comic;
+	font-family: Comic Sans MS;
 	color:#006400;
 	font-size:25px;
 }
 p{
 	text-align: center;
 	font-size: 25px;
-	font-family: comic;
+	font-family: Comic Sans MS;
 	color:#006400;
 	
 }
@@ -36,14 +36,14 @@ p:first-child{
 	border-radius: 1px;
 	border: 5px solid #00ff00;
         margin-left:45%
-        font-family: comic;
+        font-family: Comic Sans MS;
         background:#006400;
         display:inline-block;
 }
 a {
 	text-decoration: none;
 	color: black;
-	font-family: comic;
+	font-family: Comic Sans MS;
 	text-align: center;
 	font-size:18px;
 }
