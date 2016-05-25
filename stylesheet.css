@@ -14,14 +14,14 @@ body{
 }
 h1{
 	text-align: center;
-	font-family: Verdana;
-	color:#FFFF00;
+	font-family: serif;
+	color:#006400;
 }
 p{
 	text-align: center;
 	font-size: 30px;
-	font-family: Verdana;
-	color:#FFFF00;
+	font-family: serif;
+	color:#006400;
 	
 }
 p:first-child{
@@ -33,16 +33,16 @@ p:first-child{
 	heigth: 200px;
 	width:120px;
 	border-radius: 1px;
-	border: 5px solid #FFFF00;
+	border: 5px solid #00ff00;
         margin-left:45%
-        font-family: Verdana;
-        background:#FFFF00;
+        font-family: serif;
+        background:#006400;
         display:inline-block;
 }
 a {
 	text-decoration: none;
 	color: black;
-	font-family: Verdana;
+	font-family: serif;
 	text-align: center;
 	font-size:20px;
 }
